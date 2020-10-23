@@ -1,5 +1,5 @@
 # APCSP-Create
-My APCSP Create Task Project from the 2019-2020 School Year.
+My APCSP Create Task Project from the 2018-2019 School Year.
 
 ### [Try it out!](https://kinozampie.github.io/APCSP-Create/)
 This repo is also has Github Pages enabled. Play this game at: https://kinozampie.github.io/APCSP-Create/!
