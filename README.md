@@ -1,8 +1,8 @@
 # APCSP-Create
 My APCSP Create Task Project from the 2018-2019 School Year.
 
-### [Try it out!](https://kinozampie.github.io/APCSP-Create/)
-This repo is also has Github Pages enabled. Play this game at: https://kinozampie.github.io/APCSP-Create/!
+### [Try it out!](https://arelyx.github.io/APCSP-Create/)
+This repo is also has Github Pages enabled. Play this game at: https://arelyx.github.io/APCSP-Create/!
 
 ### Circle Clicker
 My create task is an html5 browser based game named "Circle Clicker"
